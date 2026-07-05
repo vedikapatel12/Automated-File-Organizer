@@ -84,6 +84,16 @@ python main.py
 * Drag and Drop Support
 * Custom File Categories
 
+## 🎓 Internship Information
+
+**Internship Program:** Python Programming Internship
+
+**Intern ID:** **CITS6292**
+
+This project was developed as part of my Python Programming Internship to demonstrate file handling, automation, and GUI development using Python and Tkinter.
+
 ## 👨‍💻 Author
 
-Developed as a Python Internship Project.
+**Intern ID:** CITS6292
+
+Developed by Vedika Patel as a Python Programming Internship Project using Python and Tkinter.
